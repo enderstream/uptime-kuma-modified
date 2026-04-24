@@ -249,6 +249,7 @@ export default {
 
             // Push Services - Push notification services
             let pushServices = {
+                windowsNotification: "Windows Notification",
                 Bark: "Bark",
                 gorush: "Gorush",
                 gotify: "Gotify",

@@ -86,6 +86,7 @@ import SMSIR from "./SMSIR.vue";
 import Webpush from "./Webpush.vue";
 import HaloPSA from "./HaloPSA.vue";
 import Resend from "./Resend.vue";
+import WindowsNotification from "./WindowsNotification.vue";
 
 /**
  * Manage all notification form.
@@ -180,6 +181,7 @@ const NotificationFormList = {
     SMSPlanet: SMSPlanet,
     Webpush: Webpush,
     HaloPSA: HaloPSA,
+    windowsNotification: WindowsNotification,
 };
 
 export default NotificationFormList;
