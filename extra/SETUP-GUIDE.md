@@ -1,7 +1,6 @@
 # Uptime Kuma (Windows Notification Edition) 설치 가이드
 
-이 포크는 원본 Uptime Kuma에 **Windows 네이티브 토스트 알림 provider**를 추가하고, **Windows 부팅(로그온) 시 서버를 자동 실행**하도록 구성한 버전이다. 이 문서 하나만 따라 하면 팀원 PC에서 동일하게 동작한다.
-
+이 포크는 원본 Uptime Kuma에 **Windows 네이티브 토스트 알림 provider**를 추가하고, **Windows 부팅(로그온) 시 서버를 자동 실행**하도록 구성한 버전이다. 
 문제 발생 시: [TROUBLESHOOTING.md](TROUBLESHOOTING.md) 참고.
 
 ---
